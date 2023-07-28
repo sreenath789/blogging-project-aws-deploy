@@ -149,6 +149,7 @@ GET /posts : get posts by postLocation
 POST /comment : add comment on the post
 DELETE /comment : delete the comment 
 POST /follow : follow the user
+DELETE /unfollow : unfollow the user
 ```
 
 
